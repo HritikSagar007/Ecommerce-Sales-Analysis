@@ -49,9 +49,3 @@ The dashboard utilizes dedicated data cuts and pivot tables to answer critical b
 1. Clone this repository to your local machine.
 2. Navigate to the `data/` folder.
 3. Open `Ecommerce Sales Analysis.xlsx` in Microsoft Excel (2016 or newer recommended for full interactive chart features).
-
----
-
-## 👥 Author
-* **Your Name** - [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-* **LinkedIn:** [Your LinkedIn Link]
