@@ -3,9 +3,6 @@
 ## 📌 Project Overview
 This repository contains a comprehensive **Ecommerce Sales Analysis Dashboard** built to analyze sales performance, profitability, and customer behavior. The analysis covers historical transaction data from **2011 to 2014** (spanning 9,994 transaction records) to track growth trends, identify high-performing product segments, and discover regional sales opportunities.
 
-### 📊 Dashboard Preview
-![Dashboard Screenshot](/Dashboard Screenshot.png)
-
 ---
 
 ## 🚀 Key Features & Views Included
